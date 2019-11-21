@@ -1,0 +1,27 @@
+ul{
+        list-style-type:none;
+        position: fixed;
+        width: 90%;
+        height: 17px;
+        margin: 0;
+        padding: 15px;    
+        color: white;
+        background-color: black;
+    }
+    li{
+        display:inline;
+        text-align: center;
+        padding: 14px 12px;    
+    }
+    a{
+        color:white;
+        text-decoration: none; 
+    }
+    #logo{
+        background-color: red;
+    }
+    #image{
+        background-color: red;
+    }
+
+ 
